@@ -1,5 +1,5 @@
 // import fs from "fs";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import Listitem from "./Listitem";
 function Title() {
   const [data, setData] = useState([]);
